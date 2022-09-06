@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { notify } from '../../Components/Notify/Notify';
 
-const urlBase = 'http://localhost:8080/fornecedores';
+const urlBase = 'http://sollute.ddns.net:8080/fornecedores';
 const headers = {
   'Content-Type': 'application/json'
 };

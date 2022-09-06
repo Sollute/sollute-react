@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const urlBase = 'http://localhost:8080/caixa';
+const urlBase = 'http://sollute.ddns.net:8080/caixa';
 const headers = {
   'Content-Type': 'application/json'
 };

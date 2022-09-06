@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const apiRequest = axios.create({baseURL: 'http://localhost:8080/empresas', headers:{
+const apiRequest = axios.create({baseURL: 'http://sollute.ddns.net:8080/empresas', headers:{
     'Content-Type': 'application/json'
 }})
 
